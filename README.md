@@ -7,7 +7,9 @@ yPay monitoring page. Monitor the best pages with the best performance!
 # Use Tutorial
 
 ## 1) Download the latest release package (.zip).
+Go to the release version of the project page on GitHub and download the latest version.
 ## 2) Upload the release package to the server and unzip.
+I don’t need to say too much, everyone will! Of course, you can also choose to unzip and upload. :)
 ## 3) Configure server software (e.g: Nginx, Apache).
 
 ### Nginx
@@ -52,4 +54,5 @@ http.createServer((req, res) => {
   console.log('Server listening on: http://localhost:%s', httpPort)
 })
 ```
-## 4) U R DOWN !!
+## 4) U R WIN !!
+See here, you can visit your site for testing!
